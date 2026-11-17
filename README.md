@@ -117,6 +117,6 @@ Screenshots are not included yet. Add screenshots here when available:
 
 ## Author
 
-- **Name:** [Your Name]
-- **Course / class:** [Your Course or Class]
-- **GitHub:** [Your GitHub Profile URL]
+- **Name:** Preetham G
+- **Course / class:** 2nd year BTECH NIAT student
+- **GitHub:** [hariharan300607-afk](https://github.com/hariharan300607-afk)
