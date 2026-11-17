@@ -11,7 +11,7 @@ useEffect(() => {
   const fetchResources = async () => {
     try {
       const response = await fetch(
-        "http://localhost:5000/api/resources"
+        "https://learning-budget-planner-api.onrender.com/api/resources"
       );
 
       const result = await response.json();
@@ -39,7 +39,7 @@ useEffect(() => {
   const fetchBudget = async () => {
     try {
       const response = await fetch(
-        "http://localhost:5000/api/budget"
+        "https://learning-budget-planner-api.onrender.com/api/budget"
       );
 
       const result = await response.json();
